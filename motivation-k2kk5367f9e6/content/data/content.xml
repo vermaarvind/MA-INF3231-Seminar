@@ -1,0 +1,768 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-13501.559795137357" y="-7755.953284065841" width="27003.119590274713" height="15511.90656813168"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_13696309" type="button" x="0" y="-155.69549129516378" r="0" s="25.37648678721428" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1065.148216379166</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="1_13696309" type="button" x="-6694.697798822464" y="1688.8909419344643" r="0" s="5.884731382761417" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.1896933291179</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_13696309" type="button" x="-1826.986206976767" y="3689.3203632409673" r="0" s="5.884731382761417" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.1896933291179</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3_13696309" type="button" x="2049.9914155271495" y="169.12866188633072" r="0" s="5.884731382761417" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.1896933291179</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="4_13696309" type="button" x="6840.744714142222" y="2154.280001566025" r="0" s="5.884731382761417" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.1896933291179</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="0_45341393" type="shape" x="-4318.0088403113705" y="2854.1065746128925" r="22.925264223016548" s="13.514566819684767" class="line3">
+      <geom type="line">
+        <sp>-47.34255339050475 0</sp>
+        <ep>47.34255339050475 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="1_45341393" type="shape" x="154.22002482168452" y="1981.5816810574008" r="-42.16163488814863" s="13.514566819684767" class="line3">
+      <geom type="line">
+        <sp>-45.054963939519226 0</sp>
+        <ep>45.054963939519226 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="2_45341393" type="shape" x="4434.542958769807" y="1207.9849532099406" r="22.925264223016576" s="13.514566819684774" class="line3">
+      <geom type="line">
+        <sp>-35.79992213827901 0</sp>
+        <ep>35.79992213827901 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0_30863873" type="text" x="-1.7149779783512664" y="-5540.696255985828" r="0" s="54.85797318702152" class="head">
+      <height>31.9921875</height>
+      <width>425.0685206409844</width>
+      <p align="center">
+        <text><![CDATA[Data Refinement and Transformation]]></text>
+      </p>
+    </object>
+    <object id="12_4" type="text" x="-6710.194160566981" y="805.1986101623017" r="0" s="9.74533704986127" class="strong">
+      <height>29.28</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Motivation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="1_13696309"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-7784.9" y="1091.4" r="-13.571022302680506" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>122.97377848276813</width>
+      <p>
+        <text><![CDATA[Public free...]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="1_13696309"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="-1842.4825687212824" y="2805.628031468804" r="0" s="9.74533704986127" class="strong">
+      <height>29.28</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Open Refine]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="2_13696309"/>
+      </layout>
+    </object>
+    <object id="2_30863873" type="text" x="-1839.9999999999998" y="3622.15" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Ex Google Refine...]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="2_13696309"/>
+      </layout>
+    </object>
+    <object id="3_30863873" type="text" x="2034.495053782634" y="-714.5636698858322" r="0" s="9.74533704986127" class="strong">
+      <height>29.28</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Data Wrangler]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_13696309"/>
+      </layout>
+    </object>
+    <object id="4_30863873" type="text" x="2002.0419708157362" y="-74.55" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>430.80963406385905</width>
+      <p>
+        <text><![CDATA[By Stanford University's Visualization Group.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3_13696309"/>
+      </layout>
+    </object>
+    <object id="5_30863873" type="text" x="6825.248352397708" y="1270.5876697938622" r="0" s="9.74533704986127" class="strong">
+      <height>29.28</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Objectives]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="4_13696309"/>
+      </layout>
+    </object>
+    <object id="6_30863873" type="text" x="6815.177583555634" y="1812.0883960596996" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Features comparison...]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="4_13696309"/>
+      </layout>
+    </object>
+    <object id="0_24309637" type="text" x="11233.813993756154" y="7606.6254877127585" r="0" s="10.199986089691336" class="body">
+      <height>29.28</height>
+      <width>-442.12800000000004</width>
+      <p>
+        <text color="12960707"><![CDATA[Image by goodtextures: http://fav.me/d2he3r8]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeless</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0" type="text" x="9956.599999999999" y="6671.58" r="0" s="32" class="body">
+      <height>29.28</height>
+      <width>-209.85600000000002</width>
+      <p>
+        <text><![CDATA[Muhammad Ali Qasmi]]></text>
+      </p>
+    </object>
+    <object id="1" type="text" x="6557.35" y="-3965.5700000000006" r="0" s="32" class="body">
+      <height>29.28</height>
+      <width>399.93784287674646</width>
+      <p>
+        <text><![CDATA[Comparison of two EIS related softwares]]></text>
+      </p>
+    </object>
+    <object id="2" type="text" x="-5869.1" y="568.7" r="6.882244445740674" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-174.98399999999998</width>
+      <p>
+        <text><![CDATA[Multiple sources...]]></text>
+      </p>
+    </object>
+    <object id="3" type="text" x="-7753.046656935034" y="2072.8774648078684" r="-10.252481168640992" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-134.32799999999997</width>
+      <p>
+        <text><![CDATA[Inconsistent...]]></text>
+      </p>
+    </object>
+    <object id="4" type="text" x="-6626.1" y="1690.25" r="0" s="7.872214406146378" class="body">
+      <height>29.28</height>
+      <width>363.168</width>
+      <p>
+        <text><![CDATA[Required by EIS systems for analysis...]]></text>
+      </p>
+    </object>
+    <object id="5" type="text" x="-6659.1531790456975" y="2287.3457564598434" r="6.882244445740673" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-168.192</width>
+      <p>
+        <text><![CDATA[Various formats...]]></text>
+      </p>
+    </object>
+    <object id="6" type="text" x="-5602.538045103771" y="2070.1310169317294" r="-17.8550145925326" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-159.168</width>
+      <p>
+        <text><![CDATA[Prone to errors...]]></text>
+      </p>
+    </object>
+    <object id="7" type="text" x="-6922.65" y="220.04999999999998" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-117.432</width>
+      <p>
+        <text><![CDATA[Open data...]]></text>
+      </p>
+    </object>
+    <object id="8" type="text" x="-7497.400000000001" y="608.8000000000003" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-145.65599999999998</width>
+      <p>
+        <text><![CDATA[Huge amount...]]></text>
+      </p>
+    </object>
+    <object id="9" type="text" x="-7268.808632637178" y="2683.420870647131" r="6.882244445740673" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-178.392</width>
+      <p>
+        <text><![CDATA[Manual Cleaning...]]></text>
+      </p>
+    </object>
+    <object id="10" type="text" x="-7039.15675949053" y="1194.2708706471306" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-75.98399999999998</width>
+      <p>
+        <text><![CDATA[Costly...]]></text>
+      </p>
+    </object>
+    <object id="11" type="text" x="-5847.3" y="1194.55" r="-10.252481168640992" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-197.04000000000002</width>
+      <p>
+        <text><![CDATA[Business Decisions...]]></text>
+      </p>
+    </object>
+    <object id="12" type="text" x="-6626.099999999999" y="3099.7" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-135.48</width>
+      <p>
+        <text><![CDATA[Data Mining...]]></text>
+      </p>
+    </object>
+    <object id="13" type="text" x="-5979" y="2683.6000000000004" r="-6.910302695756334" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>148.536</width>
+      <p align="right">
+        <text><![CDATA[Data Quality...]]></text>
+      </p>
+    </object>
+    <object id="14" type="text" x="-2548.45" y="3935.4" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-138.95999999999998</width>
+      <p>
+        <text><![CDATA[Open Source...]]></text>
+      </p>
+    </object>
+    <object id="15" type="text" x="-1712.4499999999998" y="4315.45" r="0" s="5.623010290104556" class="body">
+      <height>58.56</height>
+      <width>436.36799999999994</width>
+      <p>
+        <text><![CDATA[Soul purpose data cleaning and transformation...]]></text>
+      </p>
+    </object>
+    <object id="16" type="text" x="-1903.3" y="3332.65" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-368.49600000000004</width>
+      <p>
+        <text><![CDATA[Initiate by  Metaweb Technologies, Inc.]]></text>
+      </p>
+    </object>
+    <object id="17" type="text" x="1300.691426661279" y="518.9" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-181.416</width>
+      <p>
+        <text><![CDATA[Web base service...]]></text>
+      </p>
+    </object>
+    <object id="18" type="text" x="2084.2013400384153" y="813.8" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-460.75199999999995</width>
+      <p>
+        <text><![CDATA[Designed for data cleaning and transformation...]]></text>
+      </p>
+    </object>
+    <object id="19" type="text" x="2483.15" y="-517.9" r="0" s="4.64711594223517" class="strong">
+      <height>29.28</height>
+      <width>-344.25600000000003</width>
+      <p>
+        <text><![CDATA[http://vis.stanford.edu/wrangler/]]></text>
+      </p>
+    </object>
+    <object id="20" type="text" x="-1344.5282659454738" y="2976.403377739432" r="0" s="5.111827536458688" class="strong">
+      <height>29.28</height>
+      <width>-228.192</width>
+      <p>
+        <text><![CDATA[http://openrefine.org/]]></text>
+      </p>
+    </object>
+    <object id="21" type="text" x="6514.133841637559" y="2180.7999999999997" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-283.84799999999996</width>
+      <p>
+        <text><![CDATA[Useability of both softwares...]]></text>
+      </p>
+    </object>
+    <object id="22" type="text" x="6781.250000000001" y="2611.4" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-378.86400000000003</width>
+      <p>
+        <text><![CDATA[Comparison of effort required to learn...]]></text>
+      </p>
+    </object>
+    <object id="23" type="text" x="6728.623002733326" y="2979.2208706471306" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-360.168</width>
+      <p>
+        <text><![CDATA[Further improvements / suggestions...]]></text>
+      </p>
+    </object>
+    <object id="24" type="text" x="1247.918790187037" y="204.7208706471307" r="0" s="5.623010290104556" class="body">
+      <height>29.28</height>
+      <width>-163.344</width>
+      <p>
+        <text><![CDATA[Freely available...]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="0" fadescale="0.06746587888926275">
+      <object id="background963197447" type="image" x="0" y="-155.69549129516392" r="0" s="14.771919321961152">
+        <source w="2500" h="1500">963197447<url>963197447.png</url></source>
+        <sourceUrl>marble3.png</sourceUrl>
+      <resource><id>963197447</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/2/c/1a8cc89d0c05fa58cbdbcc5abcedd254dd3ed.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0_13696309"/>
+    </s>
+    <s>
+      <eagle o="1_13696309"/>
+    </s>
+    <s>
+      <eagle o="2_13696309"/>
+    </s>
+    <s>
+      <eagle o="3_13696309"/>
+    </s>
+    <s>
+      <eagle o="4_13696309"/>
+    </s>
+    <s>
+      <eagle o="0_13696309"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arsenal-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Arsenal-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('Arsenal-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('Arsenal-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arsenal;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #dbdbdb;
+	gradEndAlpha: 0.3;
+	gradEndColor: #dbdbdb;
+	gradStartAlpha: 1;
+	gradStartColor: #dbdbdb;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderThickness: -1;
+	color: #70777c;
+	gradEndAlpha: 0.3;
+	gradEndColor: #70777c;
+	gradStartAlpha: 1;
+	gradStartColor: #70777c;
+}
+
+.line3
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #979797;
+	gradEndAlpha: 1;
+	gradEndColor: #979797;
+	gradStartAlpha: 1;
+	gradStartColor: #979797;
+}
+
+.line4
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #384858;
+	gradEndAlpha: 0.3;
+	gradEndColor: #384858;
+	gradStartAlpha: 1;
+	gradStartColor: #384858;
+}
+
+.line5
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #ff5765;
+	gradEndAlpha: 0.3;
+	gradEndColor: #ff5765;
+	gradStartAlpha: 1;
+	gradStartColor: #ff5765;
+}
+
+.poly1
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #dbdbdb;
+	gradStartColor: #dbdbdb;
+}
+
+.poly2
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndAlpha: 1;
+	gradEndColor: #70777c;
+	gradStartAlpha: 1;
+	gradStartColor: #70777c;
+}
+
+.poly3
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #444;
+	gradStartAlpha: .9;
+	gradStartColor: #444;
+}
+
+.poly4
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #384858;
+	gradStartAlpha: .9;
+	gradStartColor: #384858;
+}
+
+.poly5
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #ff5765;
+	gradStartAlpha: .9;
+	gradStartColor: #ff5765;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #b2b2b2;
+	borderThickness: 0;
+	gradEndAlpha: .6;
+	gradEndColor: #444;
+	gradStartAlpha: .6;
+	gradStartColor: #444;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 3;
+	gradEndAlpha: 0.6;
+	gradEndColor: #444;
+	gradStartAlpha: 0.6;
+	gradStartColor: #444;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: .6;
+	borderColor: #444;
+	borderThickness: 5;
+	gradEndAlpha: 0;
+	gradEndColor: #1f3b56;
+	gradStartAlpha: 0;
+	gradStartColor: #1f3b56;
+	padding: 1.03;
+	radius: 1;
+	thickness: 5;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #002631;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #dbdbdb;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #3c3c3c;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #fff;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #1f3b56;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #c9dcee;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .75;
+	color: #4ef9fe;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>ef9d6a1</hash>
+<sync><oid>k2kkhrxrhdth</oid><title>motivation</title><hash>ef9d6a1</hash></sync><config>jofsmeAcTaKDdezjJu4VXXyoHJvrdUNreP3ELV9780FliGdDgEC828CL40Txkqkz77OztbmVEjKUdJPqw9TcM3P8bf4Eu95WpVQTfgPCMdEPE5MhTAo30XmE0YifAH0KvVfw/WIoa84o8qhA8o/uC1bL6QluGgOvmpTgwrDNreUa0EgwDV4OXT3aqQMVHxmQuADg/gtw2DGqECpVnVN4pDJ2kPbMH9Qn5FYOhLFwdMJd2bO5MEtXwhbAKXN/L5vD9g1RH/dRh6oNDnJr//8K/UVH1Ts98vWiEDEHTewElfv47tNCMLIvzsJcamq2TmPlSeZatszfNjyF6xQjtw57bw==</config></zuiprezi>
